@@ -1,4 +1,3 @@
-/***
 -- Total population vs vaccinations
 WITH PopVsVac AS
 (
