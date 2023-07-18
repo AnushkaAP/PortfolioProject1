@@ -1,4 +1,4 @@
-/****SELECT * FROM CovidDeaths
+SELECT * FROM CovidDeaths
 ORDER BY 3, 4
 
 SELECT * FROM CovidVaccinations
@@ -60,5 +60,4 @@ from CovidDeaths
 where continent is not null
 order by 3 desc
 -- Globally this virus has killed less than 1% of the people(7 milion people) that contracted it
-***/
 
